@@ -1,0 +1,11 @@
+{
+  "name": "fofx-cron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:functzia/fofx-cron.git",
+  "author": "Alon Niv <oakfang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.4.1"
+  }
+}
